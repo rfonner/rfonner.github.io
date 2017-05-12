@@ -2,15 +2,12 @@
 <html lang="en">
 <head>
   <!-- Purpose: Fonner web site   -->
-  <!-- Date:    17 Apr 2017 -->
+  <!-- Date:    12 MAY 2017 -->
 
   <title>The Fonner's Web Site</title>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js" type="text/javascript"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" type="text/javascript"></script>
-
 <style type="text/css">
 
 A:link
@@ -38,6 +35,7 @@ A:active
  span.c3 {font-size: 172%}
  strong.c2 {text-decoration: underline}
  td.c1 {background-color: #9BBAD6}
+    body{margin-top:40px;}
 </style>
 </head>
 
@@ -46,7 +44,8 @@ A:active
   <br>
   <div class="container-fluid">
   
-  <div class="row" style="background-color:#9BBAD6;">
+  <nav class="navbar navbar-fixed-top">
+      <div class="row" style="background-color:#9BBAD6;">
 	<span class="c6"><br></span>
 	<div class="col-sm-2 center-block text-center">
 		<a href="http://www.zdnet.com/broadband-speedtest/" target="_blank">
@@ -58,14 +57,15 @@ A:active
 		<img src="https://rfonner.github.io/images/mickey.jpg" width="70" height="50" alt="Mickey" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">
 	</div>
   </div>
+  </nav>
 
   <div class="row">
 	<!-- LEFT COLUMN -->
-	<div class="col-sm-2" style="background-color:#9BBAD6;">
+	<div class="col-sm-2 center-block text-center" style="background-color:#9BBAD6;">
 		<span class="c6"><br></span>
 		<span class="c6"><br></span>
-		<ul>
-            <li class="c5"><dl><dt class="c4"><strong class="c2">Personal Favorites</strong></dt><dd></dd></dl></li>
+		<ul class="nav nav-list">
+            <li class="nav-header">Personal Favorites</li>
 			<li><span class="c6"><a href="http://www.msn.com/" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">MSN</a></span></li>
 			<li><span class="c6"><a href="http://my.yahoo.com/" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">My Yahoo</a></span></li>
             <li><span class="c6"><a href="http://www.richmondgasprices.com/GasPriceSearch.aspx?typ=adv&fuel=A&srch=0&area=Richmond+-+West+End&site=Richmond&tme_limit=24" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">Gas Prices</a></span></li>
@@ -81,8 +81,8 @@ A:active
 			<li><span class="c6"><a href="http://www.bsatroop772.com/" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">Troop 772</a></span></li>
         </ul>
 		<span class="c6"><br></span>
-        <ul>
-			<li class="c5"><dl><dt class="c4"><strong class="c2">Sites of Interest</strong></dt><dd></dd></dl></li>
+		<ul class="nav nav-list">
+            <li class="nav-header">Sites of Interest</li>
 			<li><span class="c6"><a href="http://www.todayshomeowner.com/" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">Today's Homeowner</a></span></li>
 			<li><span class="c6"><a href="https://www.wellsfargo.com/" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">Wells Fargo</a></span></li>
 			<li><span class="c6"><a href="http://www.newmlol.ml.com" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">Merrill Lynch</a></span></li>
@@ -94,6 +94,7 @@ A:active
 			<li><span class="c6"><a href="http://www.npr.org" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">NPR</a></span></li>
 			<li><span class="c6"><a href="http://congress.org/congressorg/officials/congress/?state=VA&amp;azip=23060&amp;bzip=3018&amp;district=07" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">My Representatives</a></span></li>
 			<li><span class="c6"><a href="http://www.cpsc.gov" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">Consumer Product</a></span></li>
+			<li><span class="c6">&nbsp;</span></li>
         </ul>
       </div>
 
@@ -128,11 +129,11 @@ A:active
 	</div>
 	  
 	 <!-- RIGHT COLUMN -->
-     <div class="col-sm-2" style="background-color:#9BBAD6;">
+     <div class="col-sm-2 center-block text-center" style="background-color:#9BBAD6;">
 		<span class="c6"><br></span>
 		<span class="c6"><br></span>
-        <ul>
-			<li class="c5"><dl><dt class="c4"><strong class="c2">Search Web</strong></dt><dd></dd></dl></li>
+		<ul class="nav nav-list">
+            <li class="nav-header">Search Web</li>
 			<li><span class="c6"><a href="http://www.infoseek.com/" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">InfoSeek</a></span></li>
 			<li><span class="c6"><a href="http://www.altavista.com" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">AltaVista</a></span></li>
 			<li><span class="c6"><a href="http://www.worldpages.com" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">World Pages</a></span></li>
@@ -143,8 +144,8 @@ A:active
 			<li><span class="c6"><a href="http://www.pronouncenames.com/" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">Pronounce Names</a></span></li>
         </ul>
 		<span class="c6"><br></span>
-        <ul>
-			<li class="c5"><dl><dt class="c4"><strong class="c2">Work Related</strong></dt><dd></dd></dl></li>
+		<ul class="nav nav-list">
+            <li class="nav-header">Work Related</li>
 			<li><span class="c6"><a href="https://office.live.com" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">Office 365</a></span></li>
 			<li><span class="c6"><a href="http://sdn.sybase.com/sdn/index.stm" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">Sybase Support</a></span></li>
 			<li><span class="c6"><a href="http://wpi.wpi.edu/server.815/index.htm" target="_blank" onmouseover="window.status=' ';return true" onmouseout="window.status=' '; return true">Oracle Support</a></span></li>
@@ -167,4 +168,6 @@ A:active
     </div>
   </div>
 </body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js" type="text/javascript"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" type="text/javascript"></script>
 </html>
