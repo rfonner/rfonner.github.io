@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Create Object from JSON String</h2>
+
+
+
+<p id="demo"></p>
+
+
+<script>
+var request = new XMLHttpRequest();
+document.getElementById("demo").innerHTML = "testing";
+
+alert("1");
+try{
+	request.open("GET", "/index.json", false);
+	alert("2");
+}  
+catch(e) {  
+	document.getElementById("demo").innerHTML = "Error Message: " + e.message;  
+    //document.write ("Error Message: " + e.message);  
+    //document.write ("<br />");  
+    //document.write ("Error Code: ");  
+    //document.write (e.number & 0xFFFF);  
+    //document.write ("<br />");  
+    //document.write ("Error Name: " + e.name);  
+}  
+request.send(null)
+alert("3");
+var my_JSON_object = JSON.parse(request.responseText);
+//alert (my_JSON_object.result[0]);
+   
+alert('hello world');
+//document.getElementById("demo").innerHTML = obj.items[0].section;
+
+</script>
+
+</body>
+</html>

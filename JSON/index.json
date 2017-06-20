@@ -1,0 +1,264 @@
+{
+	"items": [{
+			"section": "Personal Favorites",
+			"links": [{
+					"href": "http://www.msn.com/",
+					"target": "",
+					"caption": "MSN"
+				},
+				{
+					"href": "http://my.yahoo.com/",
+					"target": "",
+					"caption": "My Yahoo"
+				},
+				{
+					"href": "http://www.richmondgasprices.com/GasPriceSearch.aspx?typ=adv&fuel=A&srch=0&area=Richmond+-+West+End&site=Richmond&tme_limit=24",
+					"target": "_blank",
+					"caption": "Gas Prices"
+				},
+				{
+					"href": "http://customwire.ap.org/dynamic/fronts/HOME?SITE=VARIT&amp;SECTION=HOME",
+					"target": "_blank",
+					"caption": "Associated Press"
+				},
+				{
+					"href": "http://www.bluemountain.com",
+					"target": "_blank",
+					"caption": "Blue Mountain Cards"
+				},
+				{
+					"href": "http://www.123greetings.com",
+					"target": "_blank",
+					"caption": "123 Greeting Cards"
+				},
+				{
+					"href": "http://catalog.henrico.lib.va.us/uhtbin/cgisirsi/yAwOvF2irJ/0/49",
+					"target": "_blank",
+					"caption": "Library Catalog"
+				},
+				{
+					"href": "http://www.shutterfly.com",
+					"target": "_blank",
+					"caption": "Shutterfly"
+				},
+				{
+					"href": "http://www.epinions.com",
+					"target": "_blank",
+					"caption": "Product Reviews"
+				},
+				{
+					"href": "http://www.comparenet.com/",
+					"target": "_blank",
+					"caption": "CompareNet"
+				},
+				{
+					"href": "http://www.coolquiz.com/trivia/facts/",
+					"target": "_blank",
+					"caption": "Useless Knowledge"
+				},
+				{
+					"href": "http://www.usccb.org/bible/readings",
+					"target": "_blank",
+					"caption": "Readings"
+				},
+				{
+					"href": "http://www.bsatroop772.com/",
+					"target": "_blank",
+					"caption": "Troop 772"
+				}
+			]
+		},
+		{
+			"section": "Sites of Interest",
+			"links": [{
+					"href": "http://www.todayshomeowner.com/",
+					"target": "_blank",
+					"caption": "Today's Homeowner"
+				},
+				{
+					"href": "https://www.wellsfargo.com/",
+					"target": "_blank",
+					"caption": "Wells Fargo"
+				},
+				{
+					"href": "http://www.newmlol.ml.com",
+					"target": "_blank",
+					"caption": "Merrill Lynch"
+				},
+				{
+					"href": "https://www.robinsfcu.org/cgi-bin/mcw000.cgi?MCWSTART",
+					"target": "_blank",
+					"caption": "Credit Union"
+				},
+				{
+					"href": "http://www.gmacmortgage.com",
+					"target": "_blank",
+					"caption": "GMAC"
+				},
+				{
+					"href": "http://www.timesdispatch.com/",
+					"target": "_blank",
+					"caption": "Times Dispatch"
+				},
+				{
+					"href": "http://abcnews.go.com/newssummary",
+					"target": "_blank",
+					"caption": "ABC NEWS Summary"
+				},
+				{
+					"href": "http://www.snap.com/LMOID/resource/0,566,-116,00.html",
+					"target": "_blank",
+					"caption": "IPO Calendar"
+				},
+				{
+					"href": "http://www.npr.org",
+					"target": "_blank",
+					"caption": "NPR"
+				},
+				{
+					"href": "http://congress.org/congressorg/officials/congress/?state=VA&amp;azip=23060&amp;bzip=3018&amp;district=07",
+					"target": "_blank",
+					"caption": "My Representatives"
+				},
+				{
+					"href": "http://www.cpsc.gov",
+					"target": "_blank",
+					"caption": "Consumer Product"
+				}
+			]
+		},
+		{
+			"section": "Search Web",
+			"links": [{
+					"href": "http://www.infoseek.com/",
+					"target": "_blank",
+					"caption": "InfoSeek"
+				},
+				{
+					"href": "http://www.altavista.com",
+					"target": "_blank",
+					"caption": "AltaVista"
+				},
+				{
+					"href": "http://www.worldpages.com",
+					"target": "_blank",
+					"caption": "World Pages"
+				},
+				{
+					"href": "http://www.switchboard.com",
+					"target": "_blank",
+					"caption": "Switch Board"
+				},
+				{
+					"href": "http://www.mapquest.com/maps/map.adp?country=US&amp;countryid=US&amp;addtohistory=&amp;searchtab=address&amp;searchtype=address&amp;address=10311+Delray+Road&amp;city=Glen+Allen&amp;state=VA&amp;zipcode=23060-3018&amp;search=++Search++",
+					"target": "_blank",
+					"caption": "MapQuest"
+				},
+				{
+					"href": "http://www.travelocity.com/",
+					"target": "_blank",
+					"caption": "Travelocity"
+				},
+				{
+					"href": "http://farefinder.previewtravel.com/Farefinder2/frontpage/",
+					"target": "_blank",
+					"caption": "Fair Finders"
+				},
+				{
+					"href": "http://www.pronouncenames.com/",
+					"target": "_blank",
+					"caption": "Pronounce Names"
+				}
+			]
+		},
+		{
+			"section": "Work Related",
+			"links": [{
+					"href": "https://office.live.com",
+					"target": "_blank",
+					"caption": "Office 365"
+				},
+				{
+					"href": "http://sdn.sybase.com/sdn/index.stm",
+					"target": "_blank",
+					"caption": "Sybase Support"
+				},
+				{
+					"href": "http://wpi.wpi.edu/server.815/index.htm",
+					"target": "_blank",
+					"caption": "Oracle Support"
+				},
+				{
+					"href": "http://support.microsoft.com/support/c.asp?FR=0",
+					"target": "_blank",
+					"caption": "Microsoft Support"
+				},
+				{
+					"href": "http://search.microsoft.com/us/dev/default.asp",
+					"target": "_blank",
+					"caption": "MSDN Online"
+				},
+				{
+					"href": "http://www.zdnet.com/swlib/",
+					"target": "_blank",
+					"caption": "ZDNET"
+				},
+				{
+					"href": "http://www.informit.com/myinformit/login/index.asp",
+					"target": "_blank",
+					"caption": "Books Online"
+				},
+				{
+					"href": "http://www.geocities.com/rfonner/webdevelopment.html",
+					"target": "_blank",
+					"caption": "Web Development Sites"
+				},
+				{
+					"href": "http://www.webreference.com//",
+					"target": "_blank",
+					"caption": "Web Reference"
+				},
+				{
+					"href": "https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp",
+					"target": "_blank",
+					"caption": "Bootstrap"
+				},
+				{
+					"href": "http://www.arttoday.com/",
+					"target": "_blank",
+					"caption": "Art Today"
+				},
+				{
+					"href": "http://www.webplaces.com/html/animations.htm",
+					"target": "_blank",
+					"caption": "Animation"
+				},
+				{
+					"href": "http://search.shareware.com/",
+					"target": "_blank",
+					"caption": "ShareWare"
+				},
+				{
+					"href": "http://www.brinkster.com/",
+					"target": "_blank",
+					"caption": "Brinkster"
+				},
+				{
+					"href": "http://www.weebly.com/",
+					"target": "_blank",
+					"caption": "Weebly"
+				},
+				{
+					"href": "https://mail.advancehealth.com",
+					"target": "_blank",
+					"caption": "Outlook 2016"
+				},
+				{
+					"href": "https://www.microsoft.com/learning/members/en/us/mcp/mcp-default.aspx",
+					"target": "_blank",
+					"caption": "MCP Default"
+				}
+			]
+		}
+	]
+}
